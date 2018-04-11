@@ -1,1 +1,1 @@
-# Geo Computing Course Project
+# Geog5541_Geocomputing_Project
